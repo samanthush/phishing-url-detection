@@ -58,7 +58,3 @@ evidence scenarios.
 ChatGPT was used as a supporting tool for understanding technical
 concepts, discussing algorithms, troubleshooting implementation
 issues, and improving report organisation and clarity.
-
-## Citation
-
-...
